@@ -22,15 +22,6 @@
 3. Выберите версию для вашей ОС
 4. Создайте BlockChat ID и начните общение!
 
-
-## 👥 Команда разработчиков
-
-| Разработчик | Роль | Ссылки |
-|------------|------|---------|
-| **bereznyak72** | Главный разработчик | [Сайт](https://bereznyak72.github.io/) • [GitHub](https://github.com/bereznyak72) |
-| **GuMi-Develop** | Разработчик | [Сайт](https://gumi-develop.github.io/Portfolio/) • [GitHub](https://github.com/GuMi-Develop) |
-| **nizi52** | Разработчик | [Сайт](https://nizi52.github.io/) • [GitHub](https://github.com/nizi52) |
-
 ## 📄 Лицензия и правовая информация
 
 - [**Политика конфиденциальности:**](https://blockchat-messenger.github.io//privacy.html)
